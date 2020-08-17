@@ -1,0 +1,24 @@
+.bg {
+    background-color: rgba(175, 175, 175, 0.521);
+    border-style: 1px outset #808087e7;
+    margin-right:20px;
+    margin-left: 20px;
+    padding: 20px;
+    width: 450px;
+    height: 200px;
+    text-align: left;
+  }
+  .bg-g {
+    background-color: rgb(247, 243, 243);
+    border-style: 1px solid #6d1f1fa6;
+    margin:30px;
+    padding: 20px;
+    width: 800px;
+    text-align: left;
+  }
+  
+.bgg-p {
+    margin:30px;
+    text-align: left;
+    color: rgb(22, 22, 17);
+}  
